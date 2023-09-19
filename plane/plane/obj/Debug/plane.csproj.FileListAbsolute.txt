@@ -1,0 +1,8 @@
+E:\Desktop\plane\plane\plane\bin\Debug\plane.exe
+E:\Desktop\plane\plane\plane\bin\Debug\plane.pdb
+E:\Desktop\plane\plane\plane\obj\Debug\plane.csprojAssemblyReference.cache
+E:\Desktop\plane\plane\plane\obj\Debug\plane.Properties.Resources.resources
+E:\Desktop\plane\plane\plane\obj\Debug\plane.csproj.GenerateResource.cache
+E:\Desktop\plane\plane\plane\obj\Debug\plane.csproj.CoreCompileInputs.cache
+E:\Desktop\plane\plane\plane\obj\Debug\plane.exe
+E:\Desktop\plane\plane\plane\obj\Debug\plane.pdb
